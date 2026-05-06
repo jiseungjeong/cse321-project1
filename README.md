@@ -185,5 +185,3 @@ sortedness plus a multiset equality check against the inserted keys.
   the public repository carries source code and dataset only).
 - Source repository: <https://github.com/jiseungjeong/cse321-project1>
 - Dataset: `student.csv` (kept in repo for reproducibility).
-
-Contact: see the course Blackboard for the TA's email.
